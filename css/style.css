@@ -4,11 +4,11 @@
   margin: 0;
   font-family: "STIX Two Math", serif;
 }
-body{
+body::before{
   content: "";
   position: absolute;
   
-  background: url(/img/pexels-sanni-sahil-2565919.jpg) no-repeat center
+  background: url(https://wallpaperaccess.com/full/4982.jpg) no-repeat center
     center/cover;
   height: 100%;
   width: 100%;
