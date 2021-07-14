@@ -8,7 +8,7 @@ body::before{
   content: "";
   position: absolute;
   
-  background: url(https://wallpaperaccess.com/full/4982.jpg) no-repeat center
+  background: url(https://images.pexels.com/photos/326503/pexels-photo-326503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) no-repeat center
     center/cover;
   height: 100%;
   width: 100%;
