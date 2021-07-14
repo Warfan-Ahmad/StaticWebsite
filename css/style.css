@@ -4,21 +4,12 @@
   margin: 0;
   font-family: "STIX Two Math", serif;
 }
-<<<<<<< HEAD
 
 body::before {
   content: "";
   position: absolute;
   background: url("https://images.pexels.com/photos/1181271/pexels-photo-1181271.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940")
     no-repeat center center/cover;
-=======
-body::before{
-  content: "";
-  position: absolute;
-  
-  background: url(https://images.pexels.com/photos/326503/pexels-photo-326503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) no-repeat center
-    center/cover;
->>>>>>> 2c5d270e3e1645350558d97a462c853d1c848be8
   height: 100%;
   width: 100%;
   z-index: -1;
